@@ -151,7 +151,7 @@ module.exports.ROOMS = {
     KWCOutside: {
         bg: "kwc-entry-bg-128x200.png",
         frames: 2,
-        frameDelay: 30,
+        frameDelay: 60,
         avatarScale: 2,
         pageBg: "#ab5236",
         area: "KWCOutside-areas.png",
