@@ -150,7 +150,7 @@ module.exports.ROOMS = {
 
     KWCOutside: {
         bg: "likelike-outside-omoma.png",
-        frames: 2,
+        frames: 1,
         frameDelay: 30,
         avatarScale: 2,
         pageBg: "#ab5236",
