@@ -154,7 +154,7 @@ module.exports.ROOMS = {
         frameDelay: 30,
         avatarScale: 2,
         pageBg: "#ab5236",
-        area: "likelikeOutside-areas.png",
+        area: "KWCOutside-areas.png",
         tint: "#fdeac8",
         bubblesY: 44,
         spawn: [14, 84, 119, 92],
