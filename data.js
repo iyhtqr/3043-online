@@ -149,8 +149,8 @@ module.exports.ROOMS = {
     },
 
     KWCOutside: {
-        bg: "likelike-outside-omoma.png",
-        frames: 1,
+        bg: "kwc-entry-bg-128x200.png",
+        frames: 2,
         frameDelay: 30,
         avatarScale: 2,
         pageBg: "#ab5236",
@@ -160,7 +160,7 @@ module.exports.ROOMS = {
         spawn: [14, 84, 119, 92],
         areaColors: {
             //h will be replaced by #
-            hff77a8: { cmd: "enter", room: "likelike", label: "Enter LIKELIKE", point: [100, 84], enterPoint: [104, 98], obstacle: false },
+            hff77a8: { cmd: "enter", room: "likelike", label: "Enter KWC exhibition", point: [100, 84], enterPoint: [104, 98], obstacle: false },
         }
     },
 
